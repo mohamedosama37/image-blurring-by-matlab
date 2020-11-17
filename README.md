@@ -1,0 +1,2 @@
+# image-blurring-by-matlab
+As we understand in the session that “imfilter” a built-in function in MATLAB that does Motion blurring, it’s required to do this Motion blurring using “conv2” instead. Note: we need you to do motion blurring for “rgb” images not the “grayscale” images. Hint: our talk in Sessions about image and the rgb image consists of three layers. Some changes that you can do them in code: We write Len and angle as constants in code, you can make them variables and get their values from the user.
